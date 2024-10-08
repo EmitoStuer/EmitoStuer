@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @EmitoStuer
 - Ejercicio Java Restaurante.
 ![Captura de Pantalla 2024-10-07 a la(s) 21 54 11](https://github.com/user-attachments/assets/a420b21b-d745-4275-8e04-27d63acf96ca)
+![Captura de Pantalla 2024-10-07 a la(s) 22 01 46](https://github.com/user-attachments/assets/60b69b1d-4acf-43c0-990b-5af7d91083a2)
+
 
 - Ejercicio Entregable Utilizando HTML CSS Y JavaScript
 ![Captura de Pantalla 2024-10-07 a la(s) 21 46 54](https://github.com/user-attachments/assets/33ae7c89-6d91-4085-b65c-71429bc6ce78)
